@@ -18,10 +18,11 @@ pip install flask
 python app.py
 
 3. Open browser at http://127.0.0.1:5000/
-
-📁 flask-portfolio/
-├── app.py
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
+   
+4. ## Folder structure
+    flask-portfolio/
+       ├── app.py
+       ├── templates/
+             └── index.html
+       ├── static/
+            └── style.css
